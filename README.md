@@ -14,13 +14,6 @@ Instructions for use:
 
 5)Add the program to the startup registry.
 
-System requirements:
-
-Xiaomi Mi Pad 5 tablet;
-
-WindowsARM operating system.
-
-
 
 
 

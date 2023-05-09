@@ -19,7 +19,7 @@ Threshold = 10
 
 Path = "To add to a label, add one backslash \ to the others \, getting rid of all quotes"
 
-## setting config-bats.ini
+## Setting config-bats.ini
 
 Threshold: Specifies the battery charge threshold in percent. When this battery level is reached, the tablet will automatically restart.
 

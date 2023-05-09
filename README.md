@@ -22,6 +22,7 @@ Path = "To add to a label, add one backslash \ to the others \, getting rid of a
 ## setting config-bats.ini
 
 Threshold: Specifies the battery charge threshold in percent. When this battery level is reached, the tablet will automatically restart.
+
 Path: path to the program's shortcut. You must specify the path to the slota-switchtoandroid.bat or slotb-switchtoandroid.bat shortcut. For the program to work correctly, the shortcut must be in the same folder with the program.
 For all questions, please contact the author of the program. 
 
